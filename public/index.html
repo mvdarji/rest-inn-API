@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fake REST API</title>
+</head>
+<body>
+    <h1>Hello!</h1>
+    <h2>This is a Fake REST API created for a fake online resort Website.</h2>
+    <h3>Created by: Manali Darji</h3>
+
+    <div id="resources">Following are the resources provide by this API: </div>
+    
+    <script>
+        let ResourceList = ({db}) => {
+            let content = Object.keys(db).map( name => {
+                return `
+                <p>
+                    <a target="_blank" href="/${name}">/${name}</a>
+                    <sup>${db[name].length ? `${db[name].length}x` : 'object'}</sup>
+                </p>`;
+            }).join('');
+
+            return content;
+        }
+
+        window.fetch('db')
+        .then(resp => resp.json())
+        .then(db => {
+            let content = (Object.keys(db).length) ? ResourceList({db}) : 'No Resources created yet.'
+            document.getElementById('resources').innerHTML += content;
+        })
+        .catch(error => console.log(error))
+    </script>
+</body>
+</html>
