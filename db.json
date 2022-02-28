@@ -6,7 +6,7 @@
 			"title": "1 VILLEA by Yellow Petals",
 			"description": "Desc 1, Perfectly located for a trip",
 			"price": 106,
-			"type": "b&b",
+			"type": "bread and breakfasts",
 			"houseRules": [
 				"Rule no 1",
 				"Rule no 2",
@@ -50,7 +50,7 @@
 			"title": "3 VILLEA by Yellow Petals",
 			"description": "Desc 1, Perfectly located for a trip",
 			"price": 106,
-			"type": "b&b",
+			"type": "bread and breakfasts",
 			"houseRules": [
 				"Rule no 5"
 			],
@@ -139,32 +139,32 @@
 		{
 			"id": 1,
 			"type": "apartments",
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720"
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/apartments.jpg"
 		},
 		{
 			"id": 2,
 			"type": "resorts",
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720"
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/resorts.jpg"
 		},
 		{
 			"id": 3,
 			"type": "condos",
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720"
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/condos.jpg"
 		},
 		{
 			"id": 4,
-			"type": "b&b",
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720"
+			"type": "hotels",
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/hotels.jpg"
 		},
 		{
 			"id": 5,
-			"type": "hotels",
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720"
+			"type": "bread and breakfasts",
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/b&b.jpg"
 		},
 		{
 			"id": 6,
-			"type": "ranodm type",
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720"
+			"type": "motels",
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/motels.jpg"
 		}
 	]
 }
