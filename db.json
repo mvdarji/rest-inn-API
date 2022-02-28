@@ -2,137 +2,50 @@
 	"properties": [
 		{
 			"id": 1,
-			"image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
-			"title": "1 VILLEA by Yellow Petals",
-			"description": "Desc 1, Perfectly located for a trip",
-			"price": 106,
-			"type": "bread and breakfasts",
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/1.jpg",
+			"title": "The Baysville Backhouse",
+			"description": "Less then a minute to the snowmobile trails and less then 30 to the ski slopes. Winter enthusiasts will enjoy this centrally located spot to explore their next adventure! LCBO, a brewery and restaurants are all within walking distance. The waterfront is less then a 5 min walk too! Come explore Muskoka for a reasonable price and make memories that will last a lifetime!",
+			"price": 210,
+			"type": "bed and breakfasts",
 			"houseRules": [
-				"Rule no 1",
-				"Rule no 2",
-				"Rule no 3",
+				"No smoking",
+				"No parties or events",
+				"Pets are not allowed",
 				"Rule no 4"
 			],
 			"amenities": [
-				"1 amenities",
-				"2 amenities",
-				"3 amenities",
-				"4 amenities"
+				"bathtub",
+				"cleaning products",
+				"shampoo",
+				"hotwater",
+				"TV"
 			],
-			"location": "Seychelles Islands",
+			"lat": "45.14916793878665",
+			"lng": "-79.11639627853326",
 			"bestSeller": true
 		},
 		{
 			"id": 2,
-			"image": "https://a0.muscache.com/im/pictures/102682433/d18e6564_original.jpg?im_w=720",
-			"title": "2 VILLEA by Yellow Petals",
-			"description": "Desc 1, Perfectly located for a trip",
-			"price": 106,
-			"type": "apartments",
-			"houseRules": [
-				"Rule no 5",
-				"Rule no 6",
-				"Rule no 7"
-			],
-			"amenities": [
-				"5 amenities",
-				"6 amenities",
-				"7 amenities",
-				"8 amenities",
-				"9 amenities"
-			],
-			"location": "Seychelles Islands",
-			"bestSeller": false
-		},
-		{
-			"id": 3,
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720",
-			"title": "3 VILLEA by Yellow Petals",
-			"description": "Desc 1, Perfectly located for a trip",
-			"price": 106,
-			"type": "bread and breakfasts",
-			"houseRules": [
-				"Rule no 5"
-			],
-			"amenities": [
-				"5 amenities",
-				"6 amenities",
-				"7 amenities"
-			],
-			"location": "Seychelles Islands",
-			"bestSeller": true
-		},
-		{
-			"id": 4,
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720",
-			"title": "4 VILLEA by Yellow Petals",
-			"description": "Desc 1, Perfectly located for a trip",
-			"price": 106,
+			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/2.jpg",
+			"title": "Prince Edward County Waterfront",
+			"description": "Modern boutique feel on the Bay of Quinte with stunning sunset views. Private deck. Dock available seasonally and when water levels permit. Open concept kitchen plus BBQ. Centrally located with easy access to Prince Edward County; Sandbanks Beaches, wineries, restaurants, boat launch & other amenities.",
+			"price": 287,
 			"type": "resorts",
 			"houseRules": [
-				"Rule no 5"
+				"Late checkout fees after 11:00 a.m",
+				"Self check-in with keypad",
+				"No pets"
 			],
 			"amenities": [
-				"45 amenities",
-				"6 amenities",
-				"7 amenities"
+				"bay view",
+				"kitchen",
+				"waterfront",
+				"wifi",
+				"dryer"
 			],
-			"location": "boo Islands",
-			"bestSeller": true
-		},
-		{
-			"id": 5,
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720",
-			"title": "5 VILLEA by Yellow Petals",
-			"description": "Desc 1, Perfectly located for a trip",
-			"price": 566,
-			"type": "condos",
-			"houseRules": [
-				"Rule no 5"
-			],
-			"amenities": [
-				"5 amenities",
-				"6 amenities",
-				"7 amenities"
-			],
-			"location": "Seychelles Islands",
-			"bestSeller": true
-		},
-		{
-			"id": 6,
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720",
-			"title": "6 VILLEA by Yellow Petals",
-			"description": "Desc 1, Perfectly located for a trip",
-			"price": 699,
-			"type": "condos",
-			"houseRules": [
-				"Rule no 4444"
-			],
-			"amenities": [
-				"5 amenities",
-				"6 amenities",
-				"7 amenities"
-			],
-			"location": "Seychelles Islands",
+			"lat": "44.139041061151914",
+			"lng": "-77.38908374536436",
 			"bestSeller": false
-		},
-		{
-			"id": 7,
-			"image": "https://a0.muscache.com/im/pictures/102681995/f8ff259c_original.jpg?im_w=720",
-			"title": "7 VILLEA by Yellow Petals",
-			"description": "Desc 1, Perfectly located for a trip",
-			"price": 788,
-			"type": "condos",
-			"houseRules": [
-				"Rule no 5"
-			],
-			"amenities": [
-				"5 amenities",
-				"6 amenities",
-				"7 amenities"
-			],
-			"location": "Seychelles Islands",
-			"bestSeller": true
 		}
 	],
 	"propertyTypes": [
@@ -158,7 +71,7 @@
 		},
 		{
 			"id": 5,
-			"type": "bread and breakfasts",
+			"type": "bed and breakfasts",
 			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/b&b.jpg"
 		},
 		{
