@@ -20,8 +20,7 @@
 				"hotwater",
 				"TV"
 			],
-			"lat": "45.14916793878665",
-			"lng": "-79.11639627853326",
+			"location": "Collingwood, Ontario, Canada",
 			"bestSeller": true
 		},
 		{
@@ -43,8 +42,7 @@
 				"wifi",
 				"dryer"
 			],
-			"lat": "44.139041061151914",
-			"lng": "-77.38908374536436",
+			"location": "Belleville, Ontario, Canada",
 			"bestSeller": false
 		}
 	],
