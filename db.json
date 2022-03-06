@@ -1,280 +1,289 @@
 {
-	"properties": [
-		{
-			"id": 1,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/1.jpg",
-			"title": "The Baysville Backhouse",
-			"description": "Less then a minute to the snowmobile trails and less then 30 to the ski slopes. Winter enthusiasts will enjoy this centrally located spot to explore their next adventure! LCBO, a brewery and restaurants are all within walking distance. The waterfront is less then a 5 min walk too! Come explore Muskoka for a reasonable price and make memories that will last a lifetime!",
-			"price": 210,
-			"type": "bed and breakfasts",
-			"houseRules": [
-				"No smoking",
-				"No parties or events",
-				"Pets are not allowed"
-			],
-			"amenities": [
-				"bathtub",
-				"cleaning products",
-				"shampoo",
-				"hotwater",
-				"TV"
-			],
-			"location": "Collingwood, Ontario, Canada",
-			"bestSeller": false
-		},
-		{
-			"id": 2,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/2.jpg",
-			"title": "Prince Edward County Waterfront",
-			"description": "Modern boutique feel on the Bay of Quinte with stunning sunset views. Private deck. Dock available seasonally and when water levels permit. Open concept kitchen plus BBQ. Centrally located with easy access to Prince Edward County; Sandbanks Beaches, wineries, restaurants, boat launch & other amenities.",
-			"price": 287,
-			"type": "resorts",
-			"houseRules": [
-				"Late checkout fees after 11:00 a.m",
-				"Self check-in with keypad",
-				"No pets"
-			],
-			"amenities": [
-				"bay view",
-				"kitchen",
-				"waterfront",
-				"wifi",
-				"dryer"
-			],
-			"location": "Belleville, Ontario, Canada",
-			"bestSeller": true
-		},
-		{
-			"id": 3,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/3.jpg",
-			"title": "Luxury Cottage (2BR)",
-			"description": "The Hideaway is walking distance (200 meters) to beautiful Balm Beach, a hidden-gem on Georgian Bay. A quaint but lively white sand beach with a fun beach town atmosphere. There's a huge open-air arcade, a BBQ joint with a second floor terrace overlooking the water, a family restaurant with a patio on the beach, and of course tons of ice cream options. Mini-putt and go-carts are only a 5 minute walk from the beach.",
-			"price": 310,
-			"type": "bed and breakfasts",
-			"houseRules": [
-				"No smoking or vaping on premise",
-				"No parties or events",
-				"Self check-in with keypad",
-				"Sauna is adults only"
-			],
-			"amenities": [
-				"private sauna",
-				"Public or shared beach access",
-				"EV charger",
-				"55\" HDTV with Netflix",
-				"wifi",
-				"dryer"
-			],
-			"location": "Tiny, Ontario, Canada",
-			"bestSeller": false
-		},
-		{
-			"id": 4,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/4.jpg",
-			"title": "Midland Stone Cottage",
-			"description": "Stay in our charming stone cottage conveniently located in central Midland. Just a short walk to our picturesque downtown and beautiful Little Lake Park. Our house is cozy and comfortable - perfect for 4 people. We welcome all. This house is the perfect place to stay when exploring Midland and the surrounding area.",
-			"price": 125,
-			"type": "resorts",
-			"houseRules": [
-				"No parties or events",
-				"Self check-in with lockbox",
-				"No smoking"
-			],
-			"amenities": [
-				"Bathtub",
-				"Pets allowed",
-				"Portable air conditioning",
-				"wifi",
-				"Kitchen"
-			],
-			"location": "Midland, Ontario, Canada",
-			"bestSeller": false
-		},
-		{
-			"id": 5,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/5.jpg",
-			"title": "Vera-Playa 2BHK",
-			"description": "Apartment in Puerto Rey with WIFI, Playas de Vera, two bedrooms and living-dining room with integrated kitchen. One bedroom with 1.50 bed, second bedroom with two 0.90 beds, living room with sofa and single armchair. The kitchen has a washing machine, dishwasher, ceramic hob and 0.45 oven, microwave, refrigerator. Blender, drip coffee maker, quite large kitchenware. 250m from the beach.",
-			"price": 99,
-			"type": "apartments",
-			"houseRules": [
-				"Check-in: After 5:00 p.m",
-				"Checkout: 12:00 p.m",
-				"No smoking"
-			],
-			"amenities": [
-				"Free street parking",
-				"Elevator",
-				"Shared pool",
-				"TV",
-				"Bathtub"
-			],
-			"location": "Vera-Playa, Bali",
-			"bestSeller": false
-		},
-		{
-			"id": 6,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/6.jpg",
-			"title": "Casa Natuka - Vera Beach Relax",
-			"description": "NATUKA apartment in Vera Playa, 250 meters from the Sea, for 4 people, located in a residential complex with swimming pool and private covered garage. Ground floor apartment (without accessibility problems).",
-			"price": 87,
-			"type": "bed and breakfasts",
-			"houseRules": [
-				"Late checkout fees after 11:00 a.m",
-				"Self check-in with keypad",
-				"No pets"
-			],
-			"amenities": [
-				"Shared outdoor pool",
-				"Free parking garage on premises - 1 space",
-				"waterfront",
-				"wifi"
-			],
-			"location": "Vera, Andalucía, Spain",
-			"bestSeller": false
-		},
-		{
-			"id": 7,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/7.jpg",
-			"title": "Casa Laguna",
-			"description": "The newly renovated Casa Laguna Resort is located in Vera Playa, just a few meters from the sandy beach. The modern apartment with swimming pool in the shared outdoor area is ideal for couples or families. It's each room has a living room, a well-equipped kitchen with dishwasher, a bathroom with shower and can accommodate 4 people. Additional amenities include Wi-Fi (suitable for video calls), air conditioning, a washing machine and a TV.",
-			"price": 489,
-			"type": "resorts",
-			"houseRules": [
-				"Late checkout fees after 11:00 a.m",
-				"Self check-in with keypad",
-				"No pets"
-			],
-			"amenities": [
-				"pool",
-				"TV",
-				"Bathtub",
-				"wifi",
-				"patio"
-			],
-			"location": "Vera, Andalucía, Spain",
-			"bestSeller": false
-		},
-		{
-			"id": 8,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/8.jpg",
-			"title": "1BR King Suite",
-			"description": "Relax and unwind in this comfortable one-bedroom hotel-apartment located in Sand Lake, just outside Orlando, Florida! Perfect for solo travellers, couples, or small families - you'll be close to all major attractions and shops, including Disney and Universal which are just a 10-minute drive away. The space offers an open-concept living area, an enclosed bedroom with a King bed, high speed wireless internet and a full kitchen to enjoy breakfast before hitting the parks! There's room for four guests with the sofa bed in the living room. You'll be kept entertained with complimentary access to the resort amenities, which includes a pool, hot tub, basketball court, playground, gym, bbq facilities, and arcade room.",
-			"price": 183,
-			"type": "apartments",
-			"houseRules": [
-				"No parties or events",
-				"No smoking",
-				"No pets",
-				"Self check-in with building staff"
-			],
-			"amenities": [
-				"Shared outdoor pool",
-				"Paid washer - In building",
-				"wifi",
-				"Shared hot tub",
-				"Paid dryer - In building"
-			],
-			"location": "Orlando, Florida, United States",
-			"bestSeller": false
-		},
-		{
-			"id": 9,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/9.jpg",
-			"title": "Bronte Beach Studio",
-			"description": "Just a stone's throw from the stunning Bronte Beach is a renovated and stylish studio apartment featuring a chic, furnished balcony, thoughtful touches and parking for one car.",
-			"price": 140,
-			"type": "bed and breakfasts",
-			"houseRules": [
-				"Free carport on premises - 1 space",
-				"Not suitable for infants (under 2 years)",
-				"No pets",
-				"No parties or events"
-			],
-			"amenities": [
-				"Free carport on premises - 1 space",
-				"balcony",
-				"Refrigerator",
-				"Hot water kettle"
-			],
-			"location": "Bronte, New South Wales, Australia",
-			"bestSeller": true
-		},
-		{
-			"id": 10,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/10.jpg",
-			"title": "Cozy apartment near Gorky park",
-			"description": "This apartment is located in the center of Moscow, 5 min walk to Oktyabrskaya subway station and near by to the famous Gorky park. It is very quite inside of the apartment. There are 3 supermarkets nearby. To the Red Square is just 10 min by bus or 35 min by walk. Lots of restaraunts nearby.",
-			"price": 59,
-			"type": "apartments",
-			"houseRules": [
-				"Not suitable for infants (under 2 years)",
-				"no smoking",
-				"No pets",
-				"Self check-in with lockbox"
-			],
-			"amenities": [
-				"patio",
-				"kitchen",
-				"TV",
-				"Washer",
-				"Refrigerator"
-			],
-			"location": "Moskva, Moscow, Russia",
-			"bestSeller": true
-		},
-		{
-			"id": 11,
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/11.jpg",
-			"title": "Bubble Room - Campera Resort",
-			"description": "Resting under the firmament, surrounded by vines. Our state of the art bubbles are immersed in Valle de Guadalupe, Mexico's most famous wine country surrounded by wineries and restaurants. Unique to North America, Campera is a twelve bubble hotel. Each one counts with a private bathroom, full size bed, and luxurious amenities, but nevertheless its glamping!",
-			"price": 239,
-			"type": "resorts",
-			"houseRules": [
-				"Check-in: 3:00 p.m. - 5:00 p.m",
-				"Not suitable for children and infants",
-				"No smoking"
-			],
-			"amenities": [
-				"Long-term stays allowed",
-				"Free parking on premises",
-				"Refrigerator",
-				"Hot water"
-			],
-			"location": "Los alamitos, Baja California, Mexico",
-			"bestSeller": true
-		}
-	],
-	"propertyTypes": [
-		{
-			"id": 1,
-			"type": "apartments",
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/apartments.jpg"
-		},
-		{
-			"id": 2,
-			"type": "resorts",
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/resorts.jpg"
-		},
-		{
-			"id": 3,
-			"type": "condos",
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/condos.jpg"
-		},
-		{
-			"id": 4,
-			"type": "bed and breakfasts",
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/b&b.jpg"
-		},
-		{
-			"id": 5,
-			"type": "hotels",
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/hotels.jpg"
-		},
-		{
-			"id": 6,
-			"type": "motels",
-			"image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/motels.jpg"
-		}
-	]
+  "properties": [
+    {
+      "id": 1,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/1.jpg",
+      "title": "The Baysville Backhouse",
+      "description": "Less then a minute to the snowmobile trails and less then 30 to the ski slopes. Winter enthusiasts will enjoy this centrally located spot to explore their next adventure! LCBO, a brewery and restaurants are all within walking distance. The waterfront is less then a 5 min walk too! Come explore Muskoka for a reasonable price and make memories that will last a lifetime!",
+      "price": 210,
+      "type": "bed and breakfasts",
+      "houseRules": [
+        "No smoking",
+        "No parties or events",
+        "Pets are not allowed"
+      ],
+      "amenities": [
+        "bathtub",
+        "cleaning products",
+        "shampoo",
+        "hotwater",
+        "TV"
+      ],
+      "location": "Collingwood, Ontario, Canada",
+      "bestSeller": false
+    },
+    {
+      "id": 2,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/2.jpg",
+      "title": "Prince Edward County Waterfront",
+      "description": "Modern boutique feel on the Bay of Quinte with stunning sunset views. Private deck. Dock available seasonally and when water levels permit. Open concept kitchen plus BBQ. Centrally located with easy access to Prince Edward County; Sandbanks Beaches, wineries, restaurants, boat launch & other amenities.",
+      "price": 287,
+      "type": "resorts",
+      "houseRules": [
+        "Late checkout fees after 11:00 a.m",
+        "Self check-in with keypad",
+        "No pets"
+      ],
+      "amenities": [
+        "bay view",
+        "kitchen",
+        "waterfront",
+        "wifi",
+        "dryer"
+      ],
+      "location": "Belleville, Ontario, Canada",
+      "bestSeller": true
+    },
+    {
+      "id": 3,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/3.jpg",
+      "title": "Luxury Cottage (2BR)",
+      "description": "The Hideaway is walking distance (200 meters) to beautiful Balm Beach, a hidden-gem on Georgian Bay. A quaint but lively white sand beach with a fun beach town atmosphere. There's a huge open-air arcade, a BBQ joint with a second floor terrace overlooking the water, a family restaurant with a patio on the beach, and of course tons of ice cream options. Mini-putt and go-carts are only a 5 minute walk from the beach.",
+      "price": 310,
+      "type": "bed and breakfasts",
+      "houseRules": [
+        "No smoking or vaping on premise",
+        "No parties or events",
+        "Self check-in with keypad",
+        "Sauna is adults only"
+      ],
+      "amenities": [
+        "private sauna",
+        "Public or shared beach access",
+        "EV charger",
+        "55\" HDTV with Netflix",
+        "wifi",
+        "dryer"
+      ],
+      "location": "Tiny, Ontario, Canada",
+      "bestSeller": false
+    },
+    {
+      "id": 4,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/4.jpg",
+      "title": "Midland Stone Cottage",
+      "description": "Stay in our charming stone cottage conveniently located in central Midland. Just a short walk to our picturesque downtown and beautiful Little Lake Park. Our house is cozy and comfortable - perfect for 4 people. We welcome all. This house is the perfect place to stay when exploring Midland and the surrounding area.",
+      "price": 125,
+      "type": "resorts",
+      "houseRules": [
+        "No parties or events",
+        "Self check-in with lockbox",
+        "No smoking"
+      ],
+      "amenities": [
+        "Bathtub",
+        "Pets allowed",
+        "Portable air conditioning",
+        "wifi",
+        "Kitchen"
+      ],
+      "location": "Midland, Ontario, Canada",
+      "bestSeller": false
+    },
+    {
+      "id": 5,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/5.jpg",
+      "title": "Vera-Playa 2BHK",
+      "description": "Apartment in Puerto Rey with WIFI, Playas de Vera, two bedrooms and living-dining room with integrated kitchen. One bedroom with 1.50 bed, second bedroom with two 0.90 beds, living room with sofa and single armchair. The kitchen has a washing machine, dishwasher, ceramic hob and 0.45 oven, microwave, refrigerator. Blender, drip coffee maker, quite large kitchenware. 250m from the beach.",
+      "price": 99,
+      "type": "apartments",
+      "houseRules": [
+        "Check-in: After 5:00 p.m",
+        "Checkout: 12:00 p.m",
+        "No smoking"
+      ],
+      "amenities": [
+        "Free street parking",
+        "Elevator",
+        "Shared pool",
+        "TV",
+        "Bathtub"
+      ],
+      "location": "Vera-Playa, Bali",
+      "bestSeller": false
+    },
+    {
+      "id": 6,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/6.jpg",
+      "title": "Casa Natuka - Vera Beach Relax",
+      "description": "NATUKA apartment in Vera Playa, 250 meters from the Sea, for 4 people, located in a residential complex with swimming pool and private covered garage. Ground floor apartment (without accessibility problems).",
+      "price": 87,
+      "type": "bed and breakfasts",
+      "houseRules": [
+        "Late checkout fees after 11:00 a.m",
+        "Self check-in with keypad",
+        "No pets"
+      ],
+      "amenities": [
+        "Shared outdoor pool",
+        "Free parking garage on premises - 1 space",
+        "waterfront",
+        "wifi"
+      ],
+      "location": "Vera, Andalucía, Spain",
+      "bestSeller": false
+    },
+    {
+      "id": 7,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/7.jpg",
+      "title": "Casa Laguna",
+      "description": "The newly renovated Casa Laguna Resort is located in Vera Playa, just a few meters from the sandy beach. The modern apartment with swimming pool in the shared outdoor area is ideal for couples or families. It's each room has a living room, a well-equipped kitchen with dishwasher, a bathroom with shower and can accommodate 4 people. Additional amenities include Wi-Fi (suitable for video calls), air conditioning, a washing machine and a TV.",
+      "price": 489,
+      "type": "resorts",
+      "houseRules": [
+        "Late checkout fees after 11:00 a.m",
+        "Self check-in with keypad",
+        "No pets"
+      ],
+      "amenities": [
+        "pool",
+        "TV",
+        "Bathtub",
+        "wifi",
+        "patio"
+      ],
+      "location": "Vera, Andalucía, Spain",
+      "bestSeller": false
+    },
+    {
+      "id": 8,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/8.jpg",
+      "title": "1BR King Suite",
+      "description": "Relax and unwind in this comfortable one-bedroom hotel-apartment located in Sand Lake, just outside Orlando, Florida! Perfect for solo travellers, couples, or small families - you'll be close to all major attractions and shops, including Disney and Universal which are just a 10-minute drive away. The space offers an open-concept living area, an enclosed bedroom with a King bed, high speed wireless internet and a full kitchen to enjoy breakfast before hitting the parks! There's room for four guests with the sofa bed in the living room. You'll be kept entertained with complimentary access to the resort amenities, which includes a pool, hot tub, basketball court, playground, gym, bbq facilities, and arcade room.",
+      "price": 183,
+      "type": "apartments",
+      "houseRules": [
+        "No parties or events",
+        "No smoking",
+        "No pets",
+        "Self check-in with building staff"
+      ],
+      "amenities": [
+        "Shared outdoor pool",
+        "Paid washer - In building",
+        "wifi",
+        "Shared hot tub",
+        "Paid dryer - In building"
+      ],
+      "location": "Orlando, Florida, United States",
+      "bestSeller": false
+    },
+    {
+      "id": 9,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/9.jpg",
+      "title": "Bronte Beach Studio",
+      "description": "Just a stone's throw from the stunning Bronte Beach is a renovated and stylish studio apartment featuring a chic, furnished balcony, thoughtful touches and parking for one car.",
+      "price": 140,
+      "type": "bed and breakfasts",
+      "houseRules": [
+        "Free carport on premises - 1 space",
+        "Not suitable for infants (under 2 years)",
+        "No pets",
+        "No parties or events"
+      ],
+      "amenities": [
+        "Free carport on premises - 1 space",
+        "balcony",
+        "Refrigerator",
+        "Hot water kettle"
+      ],
+      "location": "Bronte, New South Wales, Australia",
+      "bestSeller": true
+    },
+    {
+      "id": 10,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/10.jpg",
+      "title": "Cozy apartment near Gorky park",
+      "description": "This apartment is located in the center of Moscow, 5 min walk to Oktyabrskaya subway station and near by to the famous Gorky park. It is very quite inside of the apartment. There are 3 supermarkets nearby. To the Red Square is just 10 min by bus or 35 min by walk. Lots of restaraunts nearby.",
+      "price": 59,
+      "type": "apartments",
+      "houseRules": [
+        "Not suitable for infants (under 2 years)",
+        "no smoking",
+        "No pets",
+        "Self check-in with lockbox"
+      ],
+      "amenities": [
+        "patio",
+        "kitchen",
+        "TV",
+        "Washer",
+        "Refrigerator"
+      ],
+      "location": "Moskva, Moscow, Russia",
+      "bestSeller": true
+    },
+    {
+      "id": 11,
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/properties/11.jpg",
+      "title": "Bubble Room - Campera Resort",
+      "description": "Resting under the firmament, surrounded by vines. Our state of the art bubbles are immersed in Valle de Guadalupe, Mexico's most famous wine country surrounded by wineries and restaurants. Unique to North America, Campera is a twelve bubble hotel. Each one counts with a private bathroom, full size bed, and luxurious amenities, but nevertheless its glamping!",
+      "price": 239,
+      "type": "resorts",
+      "houseRules": [
+        "Check-in: 3:00 p.m. - 5:00 p.m",
+        "Not suitable for children and infants",
+        "No smoking"
+      ],
+      "amenities": [
+        "Long-term stays allowed",
+        "Free parking on premises",
+        "Refrigerator",
+        "Hot water"
+      ],
+      "location": "Los alamitos, Baja California, Mexico",
+      "bestSeller": true
+    }
+  ],
+  "propertyTypes": [
+    {
+      "id": 1,
+      "type": "apartments",
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/apartments.jpg"
+    },
+    {
+      "id": 2,
+      "type": "resorts",
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/resorts.jpg"
+    },
+    {
+      "id": 3,
+      "type": "condos",
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/condos.jpg"
+    },
+    {
+      "id": 4,
+      "type": "bed and breakfasts",
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/b&b.jpg"
+    },
+    {
+      "id": 5,
+      "type": "hotels",
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/hotels.jpg"
+    },
+    {
+      "id": 6,
+      "type": "motels",
+      "image": "https://rest-inn-api-mvdarji.herokuapp.com/img/propTypes/motels.jpg"
+    }
+  ],
+  "users": [
+    {
+      "emailId": "mvdarji@seneca.ca",
+      "password": "1234",
+      "fName": "Manali",
+      "lName": "Darji",
+      "id": 1
+    }
+  ]
 }
