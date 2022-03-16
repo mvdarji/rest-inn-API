@@ -14,10 +14,3 @@ server.use(router);
 server.listen(port, () => {
     console.log(`API Server is Running on port: ${port}`);
 });
-
-// as heroku app goes to sleep after an hour of inactivity
-// below code will keep pinging the app every one hour
-let http = require('http');
-setInterval( () => {
-    http.get('https://rest-inn-api-mvdarji.herokuapp.com/')
-}, 3599999);
